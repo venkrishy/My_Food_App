@@ -1,15 +1,15 @@
 {
   "dev": {
     "awscloudformation": {
-      "AuthRoleName": "amplify-myfoodapp-dev-225631-authRole",
-      "UnauthRoleArn": "arn:aws:iam::128433637168:role/amplify-myfoodapp-dev-225631-unauthRole",
-      "AuthRoleArn": "arn:aws:iam::128433637168:role/amplify-myfoodapp-dev-225631-authRole",
+      "AuthRoleName": "amplify-myfoodapp-dev-231404-authRole",
+      "UnauthRoleArn": "arn:aws:iam::128433637168:role/amplify-myfoodapp-dev-231404-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::128433637168:role/amplify-myfoodapp-dev-231404-authRole",
       "Region": "us-east-1",
-      "DeploymentBucketName": "amplify-myfoodapp-dev-225631-deployment",
-      "UnauthRoleName": "amplify-myfoodapp-dev-225631-unauthRole",
-      "StackName": "amplify-myfoodapp-dev-225631",
-      "StackId": "arn:aws:cloudformation:us-east-1:128433637168:stack/amplify-myfoodapp-dev-225631/9ed97770-e24b-11ed-9496-0a7639456aa1",
-      "AmplifyAppId": "d1kecss80sz1ro"
+      "DeploymentBucketName": "amplify-myfoodapp-dev-231404-deployment",
+      "UnauthRoleName": "amplify-myfoodapp-dev-231404-unauthRole",
+      "StackName": "amplify-myfoodapp-dev-231404",
+      "StackId": "arn:aws:cloudformation:us-east-1:128433637168:stack/amplify-myfoodapp-dev-231404/11f74e60-e24e-11ed-b8df-0e61235385e5",
+      "AmplifyAppId": "dpkc4lbmu9asa"
     }
   }
 }
